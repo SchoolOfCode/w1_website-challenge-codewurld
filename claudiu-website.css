@@ -4,5 +4,9 @@ h1{
     text-align: center;
     color: whitesmoke;
     background-color: yellowgreen;
-    margin:;
-}
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+  .menu{
+    text-decoration: underline; 
+  }
