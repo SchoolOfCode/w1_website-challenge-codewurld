@@ -21,6 +21,7 @@ h1{
   } */
 
   .menu {
+    display: flex;
     text-decoration: underline; 
     height: auto; /* Full-height: remove this if you want "auto" height */
     width: 160px; /* Set the width of the sidebar */
@@ -45,8 +46,20 @@ h1{
     padding-top: 20px;
   }
 
-  main {
-    position: static;
-    top: 0;
-    right: 10;
+p {
+    height: 20px;
+    /* top: 0;
+    right: 10; */
+  }
+
+  .grid-parent {
+    display: grid;
+    grid-template-columns: 1fr 1fr
+  }
+
+  .B {
+    position: absolute;
+    top: 50%;
+    left: 50%
+    transform: translate(30%, 30%);
   }
