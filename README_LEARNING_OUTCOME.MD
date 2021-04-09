@@ -18,13 +18,13 @@ Having completed my research, I sketched a basic wireframe of how I wanted the w
 ## Main Challenges & Solutions
 
 * At certain times, my code wasn't working properly or displaying as expected in the browser
- * First port of call was to do independent research to find a solution to the specific problem, using resources such as YouTube, W3School, Freecode Camp, etc. 
- * In the event that that fails, I shared the problem and reviewed the code with my pair partner (Claudiu) in one of our frequent standups and we both attempt to find a solution. 
- * I also recall attempting to find solutions to problems I had re: flexbox with my group members and other members of the cohort via Zoom meetings.
- * In conclusion, I deliberately took in that order, the three steps above when finding a solution to a problem, because I wanted to sharpen my independent thinking and solving skills, my teamworking skills and my skills in communication and problem-sharing and solution creation with wider communities.
+  * First port of call was to do independent research to find a solution to the specific problem, using resources such as YouTube, W3School, Freecode Camp, etc. 
+  * In the event that that fails, I shared the problem and reviewed the code with my pair partner (Claudiu) in one of our frequent standups and we both attempt to find a solution. 
+  * I also recall attempting to find solutions to problems I had re: flexbox with my group members and other members of the cohort via Zoom meetings.
+  * In conclusion, I deliberately took in that order, the three steps above when finding a solution to a problem, because I wanted to sharpen my independent thinking and solving skills, my teamworking skills and my skills in communication and problem-sharing and solution creation with wider communities.
  
 * Information overload -- given the abundance of information available, I realised I was allowing myself to go down a rabbit hole, which became overwhelming and caused some sense of demotivation.
- * To circumvent this, I decided to be more selective with the information being consumed and to trust the process whilst reminding myself that I was a beginner and I don't necessarily need to know everything all at once.
+  * To circumvent this, I decided to be more selective with the information being consumed and to trust the process whilst reminding myself that I was a beginner and I don't necessarily need to know everything all at once.
 
 ## Learning Outcomes
 
