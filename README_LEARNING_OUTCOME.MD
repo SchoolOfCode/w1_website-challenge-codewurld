@@ -25,6 +25,7 @@ Having completed my research, I sketched a basic wireframe of how I wanted the w
  
 * Information overload -- given the abundance of information available, I realised I was allowing myself to go down a rabbit hole, which became overwhelming and caused some sense of demotivation.
   * To circumvent this, I decided to be more selective with the information being consumed and to trust the process whilst reminding myself that I was a beginner and I don't necessarily need to know everything all at once.
+  * I also decided to implement a 'break-apart' system to deal with problems, i.e. breaking down problems into smaller chunks, in order to improve my focus and decrease the sense of overwhelm.
 
 ## Learning Outcomes
 
