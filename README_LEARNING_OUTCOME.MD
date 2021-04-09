@@ -6,7 +6,7 @@ We were tasked with the challenge of building a profile website using HTML and C
 
 ## Process
 
-My partner, Claudiu and I, approached the task by creating and send eachother a Google form with basic open and close-ended questions to understand the type of site each client wants (i.e. professional/personal, etc.) and also acquire the necessary information to be included on the site.
+My partner, Claudiu and I, approached the task by creating and sending eachother a Google form with basic open and close-ended questions to understand the type of site each client wants (i.e. professional/personal, etc.) and also acquire the necessary information to be included on the site.
 
 With information at hand, we both went off to create the client's website, iterating along the way amidst a constant exchange of communication (for client feedback) until a satisfactory final version was created and submitted. 
 
