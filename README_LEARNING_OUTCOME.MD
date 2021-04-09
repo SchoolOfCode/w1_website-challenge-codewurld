@@ -13,7 +13,7 @@ With information at hand, we both went off to create the client's website, itera
 ## Research & Plan
 
 Prior to beginning work on my client's website, I researched (visually and by inspecting the elements) the layout of several other [live websites](http://www.garysheng.com/) that were similar to the client's requirements, in order to get some inspiration and observe some best practices. 
-Having completed my research, I sketched a basic wireframe of how I wanted the website to look like on a piece of paper and made use of [Coolors](www.coolors.co) to determine a good and coherent color scheme to design the website with.
+Having completed my research, I sketched a basic wireframe of how I wanted the website to look like on a piece of paper and made use of [Coolors](COOLOrs.co/generate) to determine a good and coherent color scheme to design the website with.
 
 ## Main Challenges & Solutions
 
